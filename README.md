@@ -1,6 +1,6 @@
 # Hi 👋, I'm Matías López
 
-## I am finishing my degree in electronic engineering, I am a person who likes to be constantly learning and I am passionate about everything related to the development of embedded systems. As objectives for this year I hope to be able to collaborate with other people so that it allows me to grow as a human being, developer, and engineer and also to continue learning from this beautiful community that is open source.
+I am finishing my degree in electronic engineering, I am a person who likes to be constantly learning and I am passionate about everything related to the development of embedded systems. As objectives for this year I hope to be able to collaborate with other people so that it allows me to grow as a human being, developer, and engineer and also to continue learning from this beautiful community that is open source.
 
 ### 💻 Languages and Tools:
 <p>
