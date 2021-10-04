@@ -1,6 +1,5 @@
 # Hi there, I'm Matías López! 👋
-
-I am finishing my degree in electronic engineering, I am a person who likes to be constantly learning and I am passionate about everything related to the development of embedded systems. As objectives for this year I hope to be able to collaborate with other people so that it allows me to grow as a human being, developer, and engineer and also to continue learning from this beautiful community that is open source.
+An electronic engineer recently graduated from the National University of San Juan. I am a person who likes to be constantly learning and I am passionate about everything related to programming and technology. As goals, for this year I hope to collaborate with other people to allow me to grow as a human being, developer, and engineer and also keep learning from this beautiful community that is open source.
 
 ### 💻 Languages and Tools:
 <p>
@@ -8,8 +7,6 @@ I am finishing my degree in electronic engineering, I am a person who likes to b
 <img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/cplusplus-original.svg">
 <img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/arduino.svg">
 <img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/msp430.png">
-<img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/ccs.png">
-<img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/altium.png">
 <img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/mathworks.svg">
 <img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/git.svg">
 <img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/doxygen.png">
