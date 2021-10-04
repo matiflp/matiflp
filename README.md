@@ -5,13 +5,13 @@ An electronic engineer recently graduated from the National University of San Ju
 <p>
 <img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/c-original.svg">
 <img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/cplusplus-original.svg">
-<img width="30" height="30" src="https://github.com/matiflp/matiflp/blob/master/img/css.png">
+<img width="30" height="30" src="https://github.com/matiflp/matiflp/blob/master/img/CSS3.svg">
 <img width="30" height="30" src="https://github.com/matiflp/matiflp/blob/master/img/java.svg">
-<img width="30" height="30" src="https://github.com/matiflp/matiflp/blob/master/img/python.png">
-<img width="30" height="30" src="https://github.com/matiflp/matiflp/blob/master/img/html.png">
-<img width="30" height="30" src="https://github.com/matiflp/matiflp/blob/master/img/javascript.png">
-<img width="30" height="30" src="https://github.com/matiflp/matiflp/blob/master/img/jquery.png">
-<img width="30" height="30" src="https://github.com/matiflp/matiflp/blob/master/img/mysql.png"> 
+<img width="30" height="30" src="https://github.com/matiflp/matiflp/blob/master/img/python-3.svg">
+<img width="30" height="30" src="https://github.com/matiflp/matiflp/blob/master/img/html.svg">
+<img width="30" height="30" src="https://github.com/matiflp/matiflp/blob/master/img/javascript.svg">
+<img width="30" height="30" src="https://github.com/matiflp/matiflp/blob/master/img/JQuery.svg">
+<img width="30" height="30" src="https://github.com/matiflp/matiflp/blob/master/img/mysql.svg"> 
 <img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/arduino.svg">
 <img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/msp430.png">
 <img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/mathworks.svg">
