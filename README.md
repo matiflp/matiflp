@@ -6,7 +6,7 @@ An electronic engineer recently graduated from the National University of San Ju
 <img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/c-original.svg">
 <img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/cplusplus-original.svg">
 <img width="30" height="30" src="https://github.com/matiflp/matiflp/blob/master/img/java-.svg">
-<img width="30" height="30" src="https://github.com/matiflp/matiflp/blob/master/img/python-3.svg">
+<img width="30" height="30" src="https://github.com/matiflp/matiflp/blob/master/img/Python-logo-notext.svg">
 <img width="30" height="30" src="https://github.com/matiflp/matiflp/blob/master/img/html.svg">
 <img width="30" height="30" src="https://github.com/matiflp/matiflp/blob/master/img/CSS3.svg">
 <img width="30" height="30" src="https://github.com/matiflp/matiflp/blob/master/img/javascript.svg">
