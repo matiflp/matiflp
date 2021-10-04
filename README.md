@@ -5,11 +5,17 @@ An electronic engineer recently graduated from the National University of San Ju
 <p>
 <img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/c-original.svg">
 <img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/cplusplus-original.svg">
+<img width="30" height="30" src="https://github.com/matiflp/matiflp/blob/master/img/css.png">
+<img width="30" height="30" src="https://github.com/matiflp/matiflp/blob/master/img/java.png">
+<img width="30" height="30" src="https://github.com/matiflp/matiflp/blob/master/img/python.png">
+<img width="30" height="30" src="https://github.com/matiflp/matiflp/blob/master/img/html.png">
+<img width="30" height="30" src="https://github.com/matiflp/matiflp/blob/master/img/javascript.png">
+<img width="30" height="30" src="https://github.com/matiflp/matiflp/blob/master/img/jquery.png">
+<img width="30" height="30" src="https://github.com/matiflp/matiflp/blob/master/img/mysql.png"> 
 <img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/arduino.svg">
 <img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/msp430.png">
 <img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/mathworks.svg">
 <img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/git.svg">
-<img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/doxygen.png">
 </p>
 
 ### 📫 Connect with me:
