@@ -26,6 +26,16 @@ An electronic engineer recently graduated from the National University of San Ju
 
 ## 🔭Projects:
 
+### :clipboard: To-Do List
+
+Project of a basic to-do list that stores the items and their status (done or not) in a database (MySQL) developed in JSP with HTML, CSS, JavaScript, JQuery, and Java.
+
+<p>
+<img width="300" height="300" src="https://github.com/matiflp/matiflp/blob/master/img/to-do-list-img1.png">
+<img width="300" height="300" src="https://github.com/matiflp/matiflp/blob/master/img/to-do-list-img2.png">
+</p>
+
+
 ### 🎓 Final Degree Project 
 
 Is a measuring station based on the low-power MSP430 microcontroller (MSP430FR4133). This is responsible for the collection and storage of data in real-time, resulting from the sensing of various agricultural variables. It communicates wirelessly with a base station that concentrates the information and coordinates the communication. Supports I2C, UART, 1-Wire, pulses, and analog devices.
