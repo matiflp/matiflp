@@ -31,8 +31,8 @@ An electronic engineer recently graduated from the National University of San Ju
 Project of a basic to-do list that stores the items and their status (done or not) in a database (MySQL) developed in JSP with HTML, CSS, JavaScript, JQuery, and Java.
 
 <p>
-<img width="300" height="300" src="https://github.com/matiflp/matiflp/blob/master/img/to-do-list-img1.png">
-<img width="300" height="300" src="https://github.com/matiflp/matiflp/blob/master/img/to-do-list-img2.png">
+<img width="300" height="300" src="https://github.com/matiflp/matiflp/blob/master/img/to-do-list-img1.png" align="center">
+<img width="300" height="300" src="https://github.com/matiflp/matiflp/blob/master/img/to-do-list-img2.png" align="center">
 </p>
 
 
