@@ -53,7 +53,7 @@ Is a measuring station based on the low-power MSP430 microcontroller (MSP430FR41
 
 This is a data-logger application on a PC based on a simple and easy-to-use graphical interface where you can store, monitor, and manage all the recorded data.
 
-<p>
+<div align="center">
   <img width="300" height="250" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/datalogger.png">
   <img width="300" height="225" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/arduino.png">
-</p>
+</div>
