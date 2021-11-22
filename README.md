@@ -41,7 +41,9 @@ Project of a basic to-do list that stores the items and their status (done or no
 Is a measuring station based on the low-power MSP430 microcontroller (MSP430FR4133). This is responsible for the collection and storage of data in real-time, resulting from the sensing of various agricultural variables. It communicates wirelessly with a base station that concentrates the information and coordinates the communication. Supports I2C, UART, 1-Wire, pulses, and analog devices.
 
 <p>
-<img width="300" height="300" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/pcb.jpg">
+<img width="300" height="300" src="https://github.com/matiflp/matiflp/blob/master/img/20211119_114427.jpg">
+<img width="300" height="300" src="https://github.com/matiflp/matiflp/blob/master/img/20211119_114433.jpg">
+<img width="300" height="300" src="https://github.com/matiflp/matiflp/blob/master/img/20211119_114441.jpg">
 <img width="300" height="300" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/app.jpg">
 </p>
 
