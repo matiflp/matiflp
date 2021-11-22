@@ -44,9 +44,8 @@ Is a measuring station based on the low-power MSP430 microcontroller (MSP430FR41
 Project of a basic to-do list that stores the items and their status (done or not) in a database (MySQL) developed in JSP with HTML, CSS, JavaScript, JQuery, and Java.
 
 <div align="center">
-  <img width="300" height="300" src="https://j.gifs.com/Z8ZP5v.gif">
   <img width="300" height="300" src="https://github.com/matiflp/matiflp/blob/master/img/to-do-list-img.png">
-  [![Demo Doccou alpha](https://github.com/matiflp/matiflp/blob/master/img/gif.gif)]
+  <img width="300" height="300" src="https://github.com/matiflp/matiflp/blob/master/img/gif.gif">
   <img width="300" height="300" src="https://github.com/matiflp/matiflp/blob/master/img/to-do-list-img-menu.png">
 </div>
 
