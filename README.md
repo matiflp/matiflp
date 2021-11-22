@@ -26,17 +26,6 @@ An electronic engineer recently graduated from the National University of San Ju
 
 ## 🔭Projects:
 
-### :clipboard: To-Do List
-
-Project of a basic to-do list that stores the items and their status (done or not) in a database (MySQL) developed in JSP with HTML, CSS, JavaScript, JQuery, and Java.
-
-<div align="center">
-  <video src="https://github.com/matiflp/matiflp/blob/master/img/Grabando%20%235.mp4" width="640" height="480"></video>
-  <img width="300" height="300" src="https://github.com/matiflp/matiflp/blob/master/img/to-do-list-img.png">
-  <img width="300" height="300" src="https://github.com/matiflp/matiflp/blob/master/img/to-do-list-img-menu.png">
-</div>
-
-
 ### 🎓 Final Degree Project 
 
 Is a measuring station based on the low-power MSP430 microcontroller (MSP430FR4133). This is responsible for the collection and storage of data in real-time, resulting from the sensing of various agricultural variables. It communicates wirelessly with a base station that concentrates the information and coordinates the communication. Supports I2C, UART, 1-Wire, pulses, and analog devices.
@@ -48,6 +37,16 @@ Is a measuring station based on the low-power MSP430 microcontroller (MSP430FR41
 <div align="center">
   <img width="300" height="300" src="https://github.com/matiflp/matiflp/blob/master/img/20211119_114441.jpg">
   <img width="300" height="300" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/app.jpg">
+</div>
+
+### :clipboard: To-Do List
+
+Project of a basic to-do list that stores the items and their status (done or not) in a database (MySQL) developed in JSP with HTML, CSS, JavaScript, JQuery, and Java.
+
+<div align="center">
+  <video src="https://github.com/matiflp/matiflp/blob/master/img/Grabando%20%235.mp4" width="640" height="480"></video>
+  <img width="300" height="300" src="https://github.com/matiflp/matiflp/blob/master/img/to-do-list-img.png">
+  <img width="300" height="300" src="https://github.com/matiflp/matiflp/blob/master/img/to-do-list-img-menu.png">
 </div>
 
 ### 📻 Datalogger 
