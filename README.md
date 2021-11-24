@@ -16,6 +16,7 @@ An electronic engineer recently graduated from the National University of San Ju
   <img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/msp430.png">
   <img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/mathworks.svg">
   <img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/git.svg">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=matiflp&show_icons=true&locale=en&layout=compact" alt="matiflp" />
 </p>
 
 ### 📫 Connect with me:
