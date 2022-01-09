@@ -49,13 +49,14 @@ This project was made for the .Net Bootcamp dictated by Mindhub and Compragamer.
 </div>
 
 <div align="left">
-  [Game] (https://salvo.g2csolutions.tech/)
-[More Information] (https://www.g2csolutions.tech/)
-[Repository] (https://github.com/matiflp/salvo.git/)
+  Game: https://salvo.g2csolutions.tech/
 </div>
-
-
-
+<div align="left">
+  More Information: https://www.g2csolutions.tech/
+</div>
+<div align="left">
+  Repository: https://github.com/matiflp/salvo.git/
+</div>
 
 ### :clipboard: To-Do List
 
