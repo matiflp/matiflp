@@ -44,8 +44,8 @@ Is a measuring station based on the low-power MSP430 microcontroller (MSP430FR41
 This project was made for the .Net Bootcamp dictated by Mindhub and Compragamer. In it, we were given the task of making a backend for a Naval Battle-style game, in this project we implemented technologies from the Microsoft ecosystem for development.
 
 <div align="center">
-  <img width="600" height="300" src="https://github.com/matiflp/matiflp/blob/master/img/gif2.gif">
-  <img width="600" height="300" src="https://github.com/matiflp/matiflp/blob/master/img/Juego.png">
+  <img width="500" height="300" src="https://github.com/matiflp/matiflp/blob/master/img/gif2.gif">
+  <img width="500" height="300" src="https://github.com/matiflp/matiflp/blob/master/img/Juego.png">
 </div>
 
 <div align="left">
