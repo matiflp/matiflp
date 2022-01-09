@@ -40,13 +40,18 @@ Is a measuring station based on the low-power MSP430 microcontroller (MSP430FR41
   <img width="300" height="300" src="https://raw.githubusercontent.com/jesu95/jesu95/main/img/app.jpg">
 </div>
 
-:ship: Battleship Game
+### :ship: Battleship Game
 This project was made for the .Net Bootcamp dictated by Mindhub and Compragamer. In it, we were given the task of making a backend for a Naval Battle-style game, in this project we implemented technologies from the Microsoft ecosystem for development.
 
 <div align="center">
   <img width="600" height="300" src="https://github.com/matiflp/matiflp/blob/master/img/gif2.gif">
   <img width="600" height="300" src="https://github.com/matiflp/matiflp/blob/master/img/Juego.png">
 </div>
+
+Game: <a href="https://salvo.g2csolutions.tech/"></a>
+More Information: <a href="https://www.g2csolutions.tech/"></a>
+Repository: <a href="https://github.com/matiflp/salvo.git/"></a>
+
 
 ### :clipboard: To-Do List
 
